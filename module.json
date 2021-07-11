@@ -13,5 +13,9 @@
       "name": "Tom Rodriguez",
       "discord": "toasty#8538"
     }
-  ]
+  ],
+  "url": "https://raw.githubusercontent.com/TimoLemburg/Foundry-Testing",
+  "manifest": "https://raw.githubusercontent.com/TimoLemburg/Foundry-Testing/master/module.json",
+  "download": "https://github.com/TimoLemburg/Foundry-Testing/archive/refs/heads/master.zip"
+
 }
